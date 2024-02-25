@@ -11,7 +11,7 @@
 
 <b>Языки программирования, серверы, СУБД:</b> C++11,14,17, библиотека STL, C#, Embarcadero Rad studio 10.2-11.1 (C++Builder, Delphi), VCL, Indy, Delphi 7, Visual Studio C++ 2022, INI-файлы, XML, JSON, DBase4, MS Access, VBA, MS SQL Server 2005-2019, PostGreSQL, ErWin, Interbase, SQLite, ADO, FireDAC, DataSnap, FireMonkey, Visual Studio Code, PhpStorm (WebStorm), Apache, Open Server, Matlab, Assembler (базовый, Masm), программирование серверов и клиентов TCP/IP, DCOM, HTTP (С++Builder);
 COM-порты – RS-232, RS-485, программировал работу с COM-портами в C++Builder, Delphi; программирование получения и отправки почты (POP, SMPT) на C++Builder; 
-опыт программной обработки таблиц Excel на С#; Имею опыт создания приложений Windows Forms на C# в Visual Studio.
+опыт программной обработки таблиц Excel на С#; опыт создания приложений Windows Forms на C# в Visual Studio.
 Git, GitHub.
 
 <b>Владение Web-средствами проектирования и технологиями:</b> HTML5, CSS3, JS, jQuery, JSON, XML, AJAX, PHP 7.3, MySQL 5.7, BrainyCP (Проекты - «Разработка интернет-магазина» (админ-панель, пользовательская часть, личный кабинет, каталог заказов, фильтрация, поиск, высылка сформированных заказов на email - автоматически на PHP 7.3, JS, jQuery, MySQL 5.7, HTML5, CSS3, в модели MVC был разработан собственный Framework).
