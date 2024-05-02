@@ -53,7 +53,7 @@ Git, GitHub.
 Программировал серверы и клиенты DCOM, TCP/IP, HTTP.
 Разрабатывал и программировал методики и базы данных (3НФ ErWin) (более 100 связанных таблиц), MS SQL Server – таблицы, запросы, хранимые процедуры, клиент - получение данных с постов контроля загрязнений и аэропоста, программирование методик, отчетов, клиентов для б.д. MS SQL Server, б.д. DBase 4, SQLite.
 
-Создания приложений Windows Forms на C#, ASP.NET в Visual Studio. Программировал работу с базами данных на C#. Имею опыт программной обработки таблиц Excel на С#.
+Создания приложений Windows Forms на C#, ASP.NET в Visual Studio. Программировал работу с базами данных на C#. Имею опыт программной обработки таблиц Excel на С#. Создание WEB-приложений на PHP, Laravel (Windows/Linux), C# (ASP.NET).
 
 <b>Пользовательские навыки:</b> Easy Trace, ArcGis, MapInfo, AutoCad, Excel, Word, Oracle VM VirtualBox, Windows, Linux
 
