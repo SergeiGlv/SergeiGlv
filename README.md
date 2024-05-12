@@ -9,7 +9,7 @@
 Главный специалист сектора программного обеспечения (ПО). Разрабатывал ПО для нефтегазовой отрасли в области промышленной, пожарной и экологической безопасности, а также занимался созданием компьютерных программ систем оповещения на месторождениях (срабатывание датчиков, активация оповещателей, отображение спасательных бригад и автомобилей по GPS и т.д.). Разработал программу построения полей рисков и составления деклараций промышленной безопасности. Запрограммировал методики токсического воздействия, струевого горения, пожара пролива, расчета времени прихода фронта опасных загрязняющих веществ к населенным пунктам и т.д. Создал программу расчета сил и средств для тушения пожаров. Запрограммировал собственный векторизатор. Мои разработки внедрены и используются в 6 предприятиях РФ и Казахстана. Проектировал и реализовывал базы данных в СУБД MS SQL Server, MySQL, SQLLite, Access, DBase IV для нефтегазовой отрасли. 
 Имею опыт проектирования Web-приложений (интернет-магазин) для продажи созданных мною программ.
 
-<b>Языки программирования, серверы, СУБД:</b> C++11,14,17, библиотека STL, C#, Embarcadero Rad studio 10.2-11.1 (C++Builder, Delphi), VCL, Indy, Delphi 7, Visual Studio C++ 2022, PHP, JS, INI-файлы, XML, JSON, DBase4, MS Access, VBA, MS SQL Server 2005-2019, ORACLE (PL/SQL), PostGreSQL, ErWin, Interbase, SQLite, ADO, FireDAC, DataSnap, FireMonkey, Visual Studio Code, PhpStorm (WebStorm), Apache, Open Server, Matlab, Assembler (базовый, Masm), программирование серверов и клиентов TCP/IP, DCOM, HTTP (С++Builder);
+<b>Языки программирования, серверы, СУБД:</b> C++11,14,17, библиотека STL, Qt 6, C#, Embarcadero Rad studio 10.2-11.1 (C++Builder, Delphi), VCL, Indy, Delphi 7, Visual Studio C++ 2022, PHP, JS, INI-файлы, XML, JSON, DBase4, MS Access, VBA, MS SQL Server 2005-2019, ORACLE (PL/SQL), PostGreSQL, ErWin, Interbase, SQLite, ADO, FireDAC, DataSnap, FireMonkey, Visual Studio Code, PhpStorm (WebStorm), Apache, Open Server, Matlab, Assembler (базовый, Masm), программирование серверов и клиентов TCP/IP, DCOM, HTTP (С++Builder);
 COM-порты – RS-232, RS-485, программировал работу с COM-портами в C++Builder, Delphi; программирование получения и отправки почты (POP, SMPT) на C++Builder; 
 Имею опыт создания приложений Windows Forms на C# в Visual Studio. Программировал работу с базами данных на C#. Имею опыт программной обработки таблиц Excel на С#;
 Git, GitHub.
@@ -19,6 +19,7 @@ Git, GitHub.
 
 <div>  
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp  
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -47,7 +48,7 @@ Git, GitHub.
 Разработка Desktop и Web приложений. Клиент-серверные и многозвенные приложения. Работа с сетью (Wireshark, InSSiDer, WinSCP, PuTTY), сокеты на C++Builder, Delphi (участие в проекте рассылки обновлений программ через сокеты – пересылка файлов и сообщений). 
 Работа с реестром (выполнял проекты регистрации программ через реестр (написал программу) – генерировал ключ запроса и ключ ответа на основе характеристик оборудования через реестр. 
 Работа с ролями пользователей, параллельными вычислениями - потоками, задачами (TThread, PPL, WINAPI) программировал параллельные вычисления по реализованным мною методикам, создание служб и библиотек, программирование методов серверов (DataSnap), шифрование данных – программировал шифрование критических данных в БД (AES 128, MD5, BASE64), программировал ключ USB Guardant API для защиты программ со встраиванием кода сетевого вызова в защищаемую программу.
-Опыт работы в Linux, в том числе в отечественных операционных системах, проектирование приложений для отечественных операционных систем (на базе Linux) – Delphi Rad Studio, C++Builder (программировал Desktop-прижения под Linux с работающими в них базами данных). 
+Опыт работы в Linux, в том числе в отечественных операционных системах, проектирование приложений для отечественных операционных систем (на базе Linux) – Qt, Delphi Rad Studio, C++Builder (программировал Desktop-прижения под Linux с работающими в них базами данных). 
 Программирование COM-приложений – (автоматизация отчетов Word с таблицами сложной структуры при составлении деклараций промышленной безопасности). 
 Знаком с протоколами RS-232, RS-485 (программировал взаимодействие с COM-портами в C++Builder, Delphi). 
 Программировал серверы и клиенты DCOM, TCP/IP, HTTP.
