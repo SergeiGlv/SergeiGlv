@@ -57,7 +57,7 @@ Git, GitHub.
 
 Создания приложений Windows Forms на C#, ASP.NET в Visual Studio. Программировал работу с базами данных на C#. Имею опыт программной обработки таблиц Excel на С#. Создание WEB-приложений на PHP, Laravel (Windows/Linux), C# (ASP.NET).
 
-Имею опыт работы на JAVA в том числе с базами данных Oracle в IntelliJ IDEA и NetBeans.
+Имею опыт работы на JAVA в том числе с базами данных Oracle в IntelliJ IDEA и NetBeans. Maximo IBM.
 
 <b>Пользовательские навыки:</b> Easy Trace, ArcGis, MapInfo, AutoCad, Excel, Word, Oracle VM VirtualBox, Windows, Linux
 
