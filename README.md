@@ -17,7 +17,8 @@ Git, GitHub.
 <b>Владение Web-средствами проектирования:</b> HTML5, CSS3, Bootstrap, JS, jQuery, JSON, XML, AJAX, PHP 8, Laravel, MySQL, C# (ASP.NET), BrainyCP (для продажи разработанных мною программ мною был создан «Интернет-магазин» (админ-панель, пользовательская часть, личный кабинет, каталог заказов, фильтрация, поиск, высылка сформированных заказов на email - автоматически на PHP, JS, jQuery, MySQL, HTML5, CSS3, в модели MVC был разработан собственный Framework).
 ### 💻 Технологии:
 
-<div>  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp 
  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp  
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp 
