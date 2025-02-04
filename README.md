@@ -59,7 +59,7 @@ SVN, Git, GitHub, Bitbucket, Jira, Confluence.
 
 Имею опыт работы на JAVA в том числе с базами данных Oracle в IntelliJ IDEA и NetBeans. Maximo IBM.
 
-<b>Пользовательские навыки:</b> Easy Trace, ArcGis, MapInfo, AutoCad, Excel, Word, Oracle VM VirtualBox, Windows, Linux
+<b>Пользовательские навыки:</b> Easy Trace, ArcGis, MapInfo, AutoCad, Excel, Word, Oracle VM VirtualBox, Windows, Linux, Docker.
 
 ---
 
